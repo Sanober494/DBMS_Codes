@@ -1,5 +1,5 @@
 use dbmslab;
-/* lab 8 practice: */
+/* lab 9 practice: */
 
 CREATE TABLE contacts1 (
    contact_id INT(11) NOT NULL AUTO_INCREMENT,
